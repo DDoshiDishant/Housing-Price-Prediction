@@ -9,26 +9,17 @@ You are required to model the price of houses with the available independent var
 
 Keys Observation:-
 From this Project i understand on which features price is affected and on which price not and observed many things:
-
 As the Living area increases price also increases.
-
 As Basement Are increases price also increases.
-
 Price of the house having high Garagearea having high price.
-
 Most of the people like Gas Base Furnace heating and its price is also high
-
 Kitchen Quality-Excellent price is high.
-
 As No of FirePlaces increases price also increases.
-
 Room above the ground as room increases price increases but after the incremnet of 12 price decareses.
 
-Limitation Learning Outcomes and Future Scope
+Limitation Learning Outcomes and Future Scope:-
+
 As this model is based on Australian Market only this model you can not apply globally.
-
 From this model i learn many things and for this model Tree base algorithm is mostly use.
-
 Here dataset is small so i used KFold Value 5 but if for big dataset KFold Value will be 10.
-
 Here Data set having also many missing values and for future score if i provide geological data like longitute and Latitude than i can visualize on Map so it will be more easy to under stand and having more impact.
